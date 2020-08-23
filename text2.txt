@@ -1,6 +1,13 @@
+
+Change # 2: I am making another change and uploading with many files
+
+Change #1: I had uploaded this file in a branch.
+Now I am changing the file and will try to upload this back to my branch. 
+=======
 I had uploaded this file in a branch.
 
 Now I am changing the file and will try to upload this back to my branch. 
+
 
 ToSee: if it allows update without Git, and if deltas will show up.
 
