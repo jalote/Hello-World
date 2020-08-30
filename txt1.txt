@@ -1,4 +1,4 @@
-Change #1 
+Change #2. Second change in a non git file.
 
 hello line one
 line two hello2
